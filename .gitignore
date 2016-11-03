@@ -1,0 +1,9 @@
+target/*
+test-output/*
+.DS_Store
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+bin/*
+
